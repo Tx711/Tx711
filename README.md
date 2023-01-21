@@ -41,7 +41,13 @@
 ---
 
 ### :fire: My Stats :
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
-<div>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Tx711&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" class="center>
+<div class ="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Tx711&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly">
  </div>
