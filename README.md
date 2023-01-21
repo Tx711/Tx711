@@ -1,6 +1,6 @@
  Hi there 👋
  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="300"/>
 </div>
 
 👋 I’m Tarun Prasad (@Tarun Prasad)
@@ -9,7 +9,7 @@
 <br>
 🌱 I’m currently learning Scrapy(an open-source web-crawling framework written in Python)
 <br>
-💞️ I’m looking to collaborate on Python and Web-Dev based projects
+🥂 I’m looking to collaborate on Python and Web-Dev based projects
 <br>
 📫 How to reach me: Email: tprasad1312@gmail.com 
 
@@ -22,6 +22,7 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif"  height ="200" width="250"/>
 </div>
+ ---
  
  ### 🛠️Laguages and Tools :
  
