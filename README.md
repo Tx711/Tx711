@@ -10,10 +10,11 @@
 <br>
 📫 How to reach me: Email:tprasad1312@gmail.com 
 
-<p> Connect with me on!:
+<p> Connect with me on! :
  <a href="https://www.linkedin.com/in/tarun-prasad-bb98b4209">
   <img src="https://badgen.net/badge/LinkedIN/TarunPrasad/cyan" alt="LinkedIn Badge"/>
  </a>
  </p>
-  
+<div class="giphy">
+ <img src="https://media.giphy.com/media/zr8fjYMibDWBlTpbMU/giphy.gif" alt"Giphy">
 </div>
