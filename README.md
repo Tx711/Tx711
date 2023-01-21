@@ -17,11 +17,7 @@
  </p>
  
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zr8fjYMibDWBlTpbMU/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/zr8fjYMibDWBlTpbMU/giphy-downsized-large.gif"  height ="100" width="100"/>
 </div>
  
- 
- 
-<div>
- <img src="https://media.giphy.com/media/zr8fjYMibDWBlTpbMU/giphy.gif" alt"Giphy">
-</div>
+
