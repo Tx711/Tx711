@@ -1,35 +1,12 @@
-### Hi there 👋
+ Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/zr8fjYMibDWBlTpbMU/giphy.gif" width="100"/>
+👋 I’m Tarun Prasad (@Tarun Prasad)
+👀 I’m interested in Web-Development/Python Development
+🌱 I’m currently learning Scrapy
+💞️ I’m looking to collaborate on Python and Web-Dev based projects
+📫 How to reach me: Email:tprasad1312@gmail.com 
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Tx711/Tx711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
