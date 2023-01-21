@@ -15,6 +15,13 @@
   <img src="https://badgen.net/badge/LinkedIN/TarunPrasad/cyan" alt="LinkedIn Badge"/>
  </a>
  </p>
-<div class="giphy">
+ 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/zr8fjYMibDWBlTpbMU/giphy-downsized-large.gif" width="100"/>
+</div>
+ 
+ 
+ 
+<div>
  <img src="https://media.giphy.com/media/zr8fjYMibDWBlTpbMU/giphy.gif" alt"Giphy">
 </div>
