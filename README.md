@@ -8,6 +8,6 @@
 📫 How to reach me: Email:tprasad1312@gmail.com 
 
 <div id="badges">
-  <img src="https://https://www.linkedin.com/in/tarun-prasad-bb98b4209/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="[https://https://www.linkedin.com/in/tarun-prasad-bb98b4209/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://badgen.net/badge/LinkedIN/TarunPrasad/cyan)" alt="LinkedIn Badge"/>
   
 </div>
