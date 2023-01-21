@@ -1,4 +1,7 @@
  Hi there 👋
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 👋 I’m Tarun Prasad (@Tarun Prasad)
 <br>
@@ -17,7 +20,7 @@
  </p>
  
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/KqS8EmS7OWLUxGyUkf/giphy.gif"  height ="100" width="100"/>
+  <img src="https://media.giphy.com/media/KqS8EmS7OWLUxGyUkf/giphy.gif"  height ="180" width="180"/>
 </div>
  
 
